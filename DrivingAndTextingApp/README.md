@@ -1,4 +1,6 @@
-# Simple Android App Game created to show the difficulties in being able to text and drive at the same time without potentially crashing.
+# Simple Java Based App 
+
+Group project where we created a game to show the difficulties in being able to text and drive at the same time without potentially crashing.
 
 Utilized OOP, Multithreading, Unit Testing
 
